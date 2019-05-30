@@ -286,6 +286,7 @@
     <Compile Include="Assets\Scripts\GameEventSystem\GameEvent.cs" />
     <Compile Include="Assets\Scripts\GameEventSystem\GameEventListener.cs" />
     <Compile Include="Assets\Scripts\GlobalInteger.cs" />
+    <Compile Include="Assets\Scripts\HealthSystem\WrestlerHealth.cs" />
     <Compile Include="Assets\Scripts\WrestlerRender.cs" />
     <Compile Include="Assets\Scripts\WrestlerTemplates\Wrestler.cs" />
   </ItemGroup>
