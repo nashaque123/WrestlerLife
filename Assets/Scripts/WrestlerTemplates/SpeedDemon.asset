@@ -9,11 +9,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 26889913b8ad0ee469ae9c052d9bbcd7, type: 3}
-  m_Name: Mat Wrestler
+  m_Name: SpeedDemon
   m_EditorClassIdentifier: 
-  SpriteIcon: {fileID: 21300000, guid: 16080f35fe946c44aa40e458701b696c, type: 3}
-  FightingStyle: {fileID: 11400000, guid: f8892a619d151f94f9045c772df1a1b7, type: 2}
-  Cardio: 25
-  Resistance: 25
-  Speed: 25
-  Strength: 25
+  SpriteIcon: {fileID: 21300000, guid: 404aab80bc9718243812f3639843963e, type: 3}
+  FightingStyle: {fileID: 11400000, guid: 6cae22d63cbd40a49b42cf1343d322b2, type: 2}
+  Cardio: 30
+  Resistance: 20
+  Speed: 38
+  Strength: 12
