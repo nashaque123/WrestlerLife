@@ -283,8 +283,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Fighting Styles\EnumWrestlerType.cs" />
+    <Compile Include="Assets\Scripts\GameEventSystem\GameEvent.cs" />
+    <Compile Include="Assets\Scripts\GameEventSystem\GameEventListener.cs" />
+    <Compile Include="Assets\Scripts\WrestlerRender.cs" />
     <Compile Include="Assets\Scripts\WrestlerTemplates\Wrestler.cs" />
-    <Compile Include="Assets\WrestlerRender.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

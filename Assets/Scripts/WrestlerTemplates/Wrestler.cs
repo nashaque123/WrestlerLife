@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "New Wrestler")]
+[CreateAssetMenu]
 public class Wrestler : ScriptableObject
 {
     public Sprite SpriteIcon;
